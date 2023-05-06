@@ -9,9 +9,13 @@ Word2vec is a technique for natural language processing (NLP) published in 2013.
 # WebLink to Scrap :
 
 First website – (https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained )
+
 Second Website – (https://builtin.com/artificial-intelligence )
+
 Third website – (https://www.infoworld.com/article/3634602/explainable-ai-explained.html )
+
 Fourth Website- (https://www2.deloitte.com/se/sv/pages/technology/articles/part1-artificialintelligence-defined.html )
+
 Fifth Website – (https://www.ibm.com/in-en/watson/explainable-ai )
 
 # Problem Defintion :
